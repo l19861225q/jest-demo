@@ -1,0 +1,26 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "Jest demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l19861225q/jest-demo.git"
+  },
+  "keywords": ["jest", "demo"],
+  "author": "6K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l19861225q/jest-demo/issues"
+  },
+  "homepage": "https://github.com/l19861225q/jest-demo#readme",
+  "devDependencies": {
+    "@types/jest": "23.3.13",
+    "jest": "23.6.0",
+    "ts-jest": "23.10.5",
+    "typescript": "3.1.1"
+  }
+}
